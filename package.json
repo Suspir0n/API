@@ -1,0 +1,14 @@
+{
+  "name": "api-simples",
+  "version": "1.0.0",
+  "description": "Exemplo de criaçao do package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
